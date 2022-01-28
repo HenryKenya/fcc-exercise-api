@@ -1,0 +1,20 @@
+{
+  "name": "fcc-exercise-tracker-api",
+  "version": "1.0.0",
+  "description": "Freecodecamp exercise tracker API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Onyango",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
